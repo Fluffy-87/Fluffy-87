@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### Fluffy_87/_c1trus
-- (・∀・)
+###  　∧＿∧
+　   （　´∀｀）
