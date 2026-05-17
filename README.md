@@ -3,12 +3,11 @@
 <!--
 **Fluffy-87/Fluffy-87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- ｶﾞｯ
--　 ∧＿∧
--　(　・∀・)＝つ≡つ
--　(っ　≡つ＝つ
--　/　　　) ﾊﾞﾊﾞﾊﾞﾊﾞ
--　( /￣∪
+　 ∧＿∧
+　(　・∀・)＝つ≡つ
+　(っ　≡つ＝つ
+　/　　　) ﾊﾞﾊﾞﾊﾞﾊﾞ
+　( /￣∪
 
 Here are some ideas to get you started:
 
